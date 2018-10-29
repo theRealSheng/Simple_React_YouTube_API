@@ -6,7 +6,7 @@ import Search from './components/search_bar';
 import VideoList from './components/video_list';
 import VideoDetail  from './components/video_detail';
 
-const API_KEY = 'AIzaSyDiRfNQflV2mXVD9q8cmkPg98I2DoN54uo';
+const API_KEY = 'AIzaSyDiRfNQflV2mXVD9q8cmkPg98I2DoN54uo'; // Place here your API. This does not work.
 
 class App extends Component {
   constructor(props) {
